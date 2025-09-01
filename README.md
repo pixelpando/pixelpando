@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pixelpando. I'm graphic designer
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web developments
-- 📫 How to reach me pando100@gmail.com
+- 👋 Hi, I'm @pixelpando. I'm web developer and graphic designer
+- 👀 I'm interested in frontend development
+- 🌱 I'm currently learning JavaScript (ES6)
+- 💞️ I'm looking to collaborate on Design Systems
+- 📫 How to reach me pixelpando@gmail.com
 
 <!---
 pixelpando/pixelpando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
