@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @pixelpando. I'm web developer and graphic designer
+- 👋 Hi, I'm @pixelpando. I'm Web Developer and Graphic Designer
 - 👀 I'm interested in frontend development
 - 🌱 I'm currently learning JavaScript (ES6)
 - 💞️ I'm looking to collaborate on Design Systems
